@@ -118,6 +118,7 @@ export default function Component() {
                 <ArrowRight className="mt-1 w-4 h-4" />
               </motion.div>
             </motion.button>
+            <div className="text-[13px] mt-4 text-[#0e4138] text-center font-semibold cursor-pointer">Powered by Minato.ai</div>
           </div>
         </form>
       </motion.div>
