@@ -49,7 +49,7 @@ export default function Component() {
       >
         <form
           onSubmit={handleSubmit}
-          className="relative overflow-hidden rounded-2xl shadow-lg"
+          className="relative overflow-hidden rounded-2xl shadow-lg mb-14"
         >
           <div className="absolute inset-0 bg-gradient-to-br from-blue-400 via-purple-400 to-pink-400 opacity-90" />
           <div className="relative p-8">
